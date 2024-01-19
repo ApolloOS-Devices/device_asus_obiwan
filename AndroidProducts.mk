@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_obiwan.mk
+    $(LOCAL_DIR)/apollo_obiwan.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_obiwan-user \
-    bliss_obiwan-userdebug
+    apollo_obiwan-user \
+    apollo_obiwan-userdebug
